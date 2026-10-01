@@ -53,6 +53,11 @@ content:
         type: string
         list: true
         description: "첫 태그는 작성 방식: 직접작성 / AI보조 / AI초안"
+      - name: published
+        label: 공개
+        type: boolean
+        default: true
+        description: "끄면 임시저장 — 사이트에 게시되지 않습니다."
       - name: pin
         label: 상단 고정
         type: boolean
