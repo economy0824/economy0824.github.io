@@ -47,7 +47,7 @@ content:
         list:
           min: 1
           max: 2
-        description: "상위: Trends / Validation / Toolchain / DevOps / Development / Robotics — 하위는 자유 (예: Diagnostics, CI-CD)"
+        description: "상위: Verification Strategy / Vehicle Network / Test Bench / Test Automation / CI-CD Infra / Result Analysis / Functional Safety / Development / Trends / Blog — 하위 예: Diagnostics, HIL, Pipeline"
       - name: tags
         label: 태그
         type: string
